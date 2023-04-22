@@ -28,7 +28,9 @@ Escreva os algoritmos de todos os métodos acima.
 ## Etapas.
 
 1º - Realizamos a codificação da classe Calculadora.java , adicionando os metodos (somar, subtrair, multiplicar, dividir e potenciar).
+
 2º - Criamos os testes unitarios, assim conseguindo realizar todos os testes nos metodos pedidos no exercicio.
+
 3º - Clonamos o repositorio para o GitHub, atraves da ferramenta .[GitBash](https://git-scm.com/downloads).
 
 ## Autor
