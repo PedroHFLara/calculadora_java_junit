@@ -7,7 +7,7 @@ Este é um projeto de uma calculadora simples em Java, onde o usuário pode esco
 
 ## Ferramentas utilizadas
 
-[Eclipse]([https://code.visualstudio.com](https://eclipseide.org/)  - Um editor de código-fonte.
+[Eclipse]((https://eclipseide.org/)  - Um editor de código-fonte.
 
 [Java](https://www.java.com/pt-BR/)  - Uma linguagem de programação de alto nível e plataforma computacional.
 
