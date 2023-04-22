@@ -33,9 +33,13 @@ Escreva os algoritmos de todos os métodos acima.
 
 ## Autor
 Este projeto foi desenvolvido pelo grupo composto pelos integrantes:
+
 [Pedro Henrique Ferreira Lara](https://github.com/PedroHFLara).
+
 [Artur Passos Moreira](https://github.com/ArturPassosMoreira).
+
 [Victor Mendes Amaral Costa](https://github.com/VictorMCosta).
+
 [Bernardo Lionardo Costa](https://github.com/BernardoLCosta).
 
 ## Licença
